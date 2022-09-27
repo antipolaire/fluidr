@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 bevy = "0.8"
 bevy_egui = "0.16"
+vector2d = "2.2.0"

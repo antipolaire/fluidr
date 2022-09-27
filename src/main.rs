@@ -1,3 +1,7 @@
+mod bnas;
+mod math;
+mod solver;
+
 use bevy::prelude::*;
 use bevy_egui::{egui, EguiContext, EguiPlugin};
 
